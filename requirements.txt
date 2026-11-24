@@ -1,0 +1,10 @@
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+python-telegram-bot>=20.7
+pytest>=7.4.0
+```[span_2](start_span)[span_2](end_span)
+
+4. Gulir ke bawah lalu klik **Commit changes**[span_3](start_span)[span_3](end_span).
+
+Kalau tombol **`+` / Create new file** tidak kelihatan karena layar HP sempit, aktifkan **Desktop site** dari menu titik tiga (`⋮`) di browser—mau langsung buat `requirements.txt` lewat cara ini?
